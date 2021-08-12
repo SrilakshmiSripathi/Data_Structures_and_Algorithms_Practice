@@ -6,7 +6,7 @@ Practice of Java, Python, Cpp, R language data structures.
 DataStructuresAllLanguages
 └── Cracking-the-Coding-Interview
 │   └── Python
-│   │   └── Ch01_Arrays_and_Strings ```1 / 9``` Completed
+│   │   └── Ch01_Arrays_and_Strings 1 / 9 Complete
 │   │       ├── IsUnique
 │   │       ├── Check Permutation
 │   └── Java 
