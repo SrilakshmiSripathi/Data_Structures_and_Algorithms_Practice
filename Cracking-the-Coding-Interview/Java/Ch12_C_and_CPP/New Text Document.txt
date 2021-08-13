@@ -1,0 +1,11 @@
+Last K lines
+Reverse String
+Hash Table vs STL map
+Virtual Functions
+Shallow vs Deep Copy
+Volatile
+Virtual Base Class
+Copy Node
+Smart Pointer
+Malloc
+2D Alloc

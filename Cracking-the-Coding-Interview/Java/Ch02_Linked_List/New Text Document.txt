@@ -1,0 +1,8 @@
+Remove Dups
+Return Kth to Last
+Delete Middle Node
+Partition
+Sum lists
+Palindrome
+Intersection
+Loop Detection

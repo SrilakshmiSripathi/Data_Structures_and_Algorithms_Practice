@@ -1,0 +1,7 @@
+Multiple Apartment
+Open Requests
+Close All Requests
+Joins
+Denormalizations
+Entity-Relationship Diagram 
+Design Grade Database
