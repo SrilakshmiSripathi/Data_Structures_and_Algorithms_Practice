@@ -1,0 +1,3 @@
+import cout;
+
+cout<<"print"
