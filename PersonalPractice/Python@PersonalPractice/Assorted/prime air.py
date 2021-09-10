@@ -19,3 +19,7 @@ if miles1 + miles2 <= maxTravelDist and miles1+miles2 >= max_miles_till_now:
   res[miles1 + miles2].append([id1,id2])
   max_miles_till_now = miles1 + miles2
 return res[max_miles_till_now ]
+
+
+print (UptimalUtilization([(1,2000),(2,3000),(3,6000)],
+	 [(1,2000)], 7000))
