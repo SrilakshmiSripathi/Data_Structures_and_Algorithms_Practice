@@ -18,6 +18,14 @@ DataStructuresAllLanguages
 │   │       ├── IsUnique
 │   │       ├── Check Permutation
 │   └── R 
+└── Algorithms
+     └── Sorting   
+     └── Searching 
+     └── BFS, DFS 
+     └── Dynamic Programming
+	 └── Divide and Conquer
+	 └── Greedy
+	 └── Graph Traversal
 └── PersonalPractice
      └── Python   
      └── Java 
