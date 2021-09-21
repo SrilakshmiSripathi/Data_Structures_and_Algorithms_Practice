@@ -2,6 +2,8 @@
 def LCS(sa, sb):    
     matrix = [[0 for i in range(len(sb)+1)]\
               for j in range(len(sa)+1)]
+
+    print(matrix, len(sb)+1, len(sa)+1)
     
     for i in range(1, len(sa)+1):
         for j in range(1, len(sb)+1):
@@ -9,7 +11,7 @@ def LCS(sa, sb):
                 matrix[i][j] = matrix[i-1][j-1] + 1
             elif sa[i-1] != sb[j-1]:
                 matrix[i][j] = max(matrix[i-1][j], matrix[i][j-1])
-    print matrix
+    #print (matrix)
 
     finalstring = []
     i, j = len(matrix)-1, len(matrix[0])-1
@@ -29,4 +31,4 @@ def LCS(sa, sb):
                 
 a = "TGACCACTGTC"
 b = "ACTGACACTGATC"
-print LCS(a, b)
+print(LCS(a, b))
