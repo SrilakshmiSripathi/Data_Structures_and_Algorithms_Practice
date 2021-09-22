@@ -25,7 +25,7 @@ class DAG():
         self.indegree = UniqVert 
         for vx in self.G:
             self.indegree[vx[1]] = self.indegree.get(vx[1], 0) + 1
-        print "Given graphs indegrees", self.indegree
+        print ("Given graphs indegrees", self.indegree)
 
         for vx in self.G:
             if vx[0] not in self.neighbors or vx[1] not in self.neighbors:
@@ -40,7 +40,7 @@ class DAG():
             except KeyError:
                 hq.heappush(self.pq, [self.indegree[u], u, None])
         hq.heapify(self.pq)
-        print "PQ", self.pq
+        print ("PQ", self.pq)
 
     def TopologicalSort(self):
 
@@ -64,13 +64,13 @@ class DAG():
                                      [self.indegree[u], u, self.neighbors[u]]
             hq.heapify(self.pq)
             # Update PQ and return
-            print 'PQ updated', self.pq
+            print ('PQ updated', self.pq)
         else:
             return
 
     def Print(self):
-        print "Topological Ordering Of Vertices",\
-              "-->".join(map(str, self.TopOrder))
+        print ("Topological Ordering Of Vertices",\
+              "-->".join(map(str, self.TopOrder)))
 
 
 def main(grFile):
@@ -83,8 +83,8 @@ def main(grFile):
 
     # Create Graph Object
     newGraph = MyGraph.genGraph(grFile)
-    print "Graph", newGraph
-    print newGraph
+    print ("Graph", newGraph)
+    print (newGraph)
     # Create DAG Object
     dag = DAG(newGraph)
     # Initialize elements required for Topological sort

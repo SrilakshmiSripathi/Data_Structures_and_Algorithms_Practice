@@ -9,7 +9,7 @@ def SortBobBolts(lsA, lsB):
         if bolts in A:
             pairs.append([bolts, bolts])
             del (A[bolts])
-        print A
+        print (A)
     return pairs
 
 
@@ -18,5 +18,5 @@ l2 = ['#', '^', '$', '%', '!', '@', '~', '(', ')',]
 
 b1 = [5, 7, 2, 1, 8, 9, 12, 15, 16, 99, 55, 41, 53, 67]
 b2 = [9, 67, 12, 15, 8, 1, 53, 16, 99, 5, 41, 7, 2, 55]
-print SortBobBolts(l1, l2)
-print SortBobBolts(b1, b2)
+print (SortBobBolts(l1, l2))
+print (SortBobBolts(b1, b2))
