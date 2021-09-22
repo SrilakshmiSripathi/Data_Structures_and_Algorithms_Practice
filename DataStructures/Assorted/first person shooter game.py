@@ -65,7 +65,7 @@ def Polar(tup):
         r = math.sqrt(x**2 + y**2)
         thetha = math.atan2(y,x)
         di.update({thetha:r})
-    print "theta and radius= ",di
+    print ("theta and radius= ",di)
     return di
 
 def GenTree(cartesianCo):
@@ -88,6 +88,6 @@ def Zone(thetas):
     return "Number of partitions=", len(partition)
     
 PlayersCo = [(1,5),(-1,5),(4,3),(-4,4),(-1,-7),(1,-5),(2,4),(-4,-3),(2,-4)]
-print GenTree(PlayersCo)
+print (GenTree(PlayersCo))
 players = [(1,7),(-6,5),(2,-3),(-4,-1),(6,-2),(-1,-3),(-4,-5),(-3,7),]
-print GenTree(players)
+print (GenTree(players))

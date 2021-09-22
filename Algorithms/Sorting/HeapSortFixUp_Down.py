@@ -9,8 +9,7 @@ def heapfixup(a,i):
         if a[p] > a[i]:
             a[i], a[p] = a[p],a[i]
             i = p
-        else:
-            return
+        return
 
 def heapfixdown(a,i):
     p = 2*i
@@ -23,9 +22,8 @@ def heapfixdown(a,i):
         if a[i] > a[p]:
             a[i],a[p] = a[p],a[i]
             i = p
-            print a
-        else:
-            return
+            print (a)
+        return
 
 def HeapSort(a,k):
     n = len(a)
@@ -36,6 +34,6 @@ def HeapSort(a,k):
             heapfixdown(b,1)
         else:
             heapfixup(b,i)
-            return b
+    return b
 
-print HeapSort([50,2,41,22,30,1,100,80,12],3)
+print (HeapSort([50,2,41,22,30,1,100,80,12],3))
