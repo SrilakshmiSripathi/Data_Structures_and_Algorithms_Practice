@@ -10,7 +10,7 @@ def MinMax(a):
     while i < len(a)+1:
         try: 
             j = i - 1
-            print i,j, len(a)
+            print (i,j, len(a))
             if a[i] > a[j]:
                 if a[i] > maxi:
                     maxi = a[i]
@@ -32,5 +32,5 @@ def MinMax(a):
 
 b = [7, 1, 3, 5, 9, 12, 54, 71, 33, 2, 11, 62, 90]
 k = [9, 2, 55, 65, 73, -1, 49, 51, 200, 857, 3, 763, -5, 656, 33, -2]
-print MinMax(b)
-print MinMax(k)
+print (MinMax(b))
+print (MinMax(k))
