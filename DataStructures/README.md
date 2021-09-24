@@ -66,5 +66,6 @@
 
 ```
 
-<iframe style="border:none" width="800" height="450" src="https://whimsical.com/embed/TCnQAvXHDv6MPFQzegcueC"></iframe>
+![](https://github.com/SrilakshmiSripathi/Data_Structures_and_Algorithms_Practice/blob/master/DataStructures/Python%20(2).png) 
 
+link for image: https://github.com/SrilakshmiSripathi/Data_Structures_and_Algorithms_Practice/blob/master/DataStructures/Python%20(2).png
