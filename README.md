@@ -1,7 +1,9 @@
 ### Algorithms and Data Structures 
 ######(All Languages)
+
 Goal: Interview ready revision
-On-going contributions and Practice of Java, Python, Cpp, R language and its data structures/algorithms/language guides. 
+
+On-going contribution, practice of [Java, Python, Cpp, (maybe)R] languages, and their data structures & algorithms. 
 
 ###### Folder Structure
 ```
