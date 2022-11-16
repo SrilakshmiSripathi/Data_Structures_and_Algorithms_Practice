@@ -1,3 +1,4 @@
+isUnique
 Check Permutation
 URLify
 Palindrome Permutation
