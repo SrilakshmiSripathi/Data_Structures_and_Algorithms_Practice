@@ -1,5 +1,5 @@
-isUnique
-Check Permutation
+isUnique-done, it would be nice to work on non data structure version
+Check Permutation-
 URLify
 Palindrome Permutation
 One Array

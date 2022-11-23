@@ -3,7 +3,7 @@
 
 Goal: Interview ready revision
 
-On-going contribution, practice of [Java, Python, Cpp, (maybe)R] languages, and their data structures & algorithms. 
+On-going contribution, practice of [Java, Python, Cpp, (maybe)R] languages, and data structures & algorithms. 
 
 ###### Folder Structure
 ```
@@ -12,7 +12,7 @@ DataStructuresAllLanguages
      └── Python
      │   └── Ch01_Arrays_and_Strings 1 / 9 Complete
      │       ├── IsUnique
-     │       ├── Check Permutation
+     │       ├── Check Permutation    
      └── Java 
      │   └── Ch01_Arrays_and_Strings
      │       ├── IsUnique
