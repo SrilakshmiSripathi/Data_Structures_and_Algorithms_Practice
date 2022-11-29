@@ -44,7 +44,7 @@ class Test(unittest.TestCase):
     def isPermutation(self):
         self.assertEqual(isPermutation("test", "stet"), (True,4), "Should be True")
         self.assertEqual(isPermutation("ab", "eidbaooo"), (True,2), "Should be True")
-        #self.assertEqual(isPermutation("ab", "eidboaoo"), (False,0) "Should be False")
+        self.assertEqual(isPermutation("ab", "eidboaoo"), (False,0), "Should be False")
         
 
 if __name__ == "__main__":
