@@ -1,6 +1,7 @@
 isUnique-done, it would be nice to work on non data structure version
 Check Permutation-done, initial appraoch part done, need to optimize algorithm
-URLify- 
+URLify- completed
+
 Palindrome Permutation
 One Array
 String Compression
