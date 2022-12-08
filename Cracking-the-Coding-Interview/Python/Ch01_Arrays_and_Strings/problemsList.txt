@@ -2,7 +2,7 @@ isUnique-done, it would be nice to work on non data structure version
 Check Permutation-done, initial appraoch part done, need to optimize algorithm
 URLify- completed
 
-Palindrome Permutation
+Palindrome Permutation- working
 One Array
 String Compression
 Rotate Matrix
