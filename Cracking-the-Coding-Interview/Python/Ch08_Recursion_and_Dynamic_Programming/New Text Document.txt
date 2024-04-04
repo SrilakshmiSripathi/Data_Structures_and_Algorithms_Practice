@@ -1,8 +1,8 @@
-Triple Step
-Robot in a Grid
-Magic Index
-Power Set
-Recursive Multiply
-Tower of Hanoi
-Permutations without Dups
-Permutations with Dups
+1.Triple Step
+2.Robot in a Grid
+3.Magic Index
+4.Power Set
+5.Recursive Multiply
+6.Tower of Hanoi
+7.Permutations without Dups
+8.Permutations with Dups

@@ -1,8 +1,8 @@
-Insertion
-Binary to String
-Flip Bit to Win
-Next Number
-Debugger
-Conversion
-Pairwise Swap
-Draw Line
+1.Insertion
+2.Binary to String
+3.Flip Bit to Win
+4.Next Number
+5.Debugger
+6.Conversion
+7.Pairwise Swap
+8.Draw Line

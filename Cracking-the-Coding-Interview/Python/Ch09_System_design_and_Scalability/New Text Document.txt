@@ -1,8 +1,8 @@
-Stock Data
-Social Network
-Web Crawler
-Duplicate URLs
-Cache
-Sales Rank
-Personal Financial Manager
-Pastebin
+1.Stock Data
+2.Social Network
+3.Web Crawler
+4.Duplicate URLs
+5.Cache
+6.Sales Rank
+7.Personal Financial Manager
+8.Pastebin

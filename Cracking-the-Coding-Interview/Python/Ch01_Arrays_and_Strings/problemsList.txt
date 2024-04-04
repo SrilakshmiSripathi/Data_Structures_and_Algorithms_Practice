@@ -1,10 +1,10 @@
-isUnique-done, it would be nice to work on non data structure version
-Check Permutation-done, initial appraoch part done, need to optimize algorithm
-URLify- completed
+1.isUnique-done, it would be nice to work on non data structure version
+2.Check Permutation-done, initial appraoch part done, need to optimize algorithm
+3.URLify- completed
 
-Palindrome Permutation- working
-One Array
-String Compression
-Rotate Matrix
-Zero Matrix
-String Rotate
+4.Palindrome Permutation- working
+5.One Array
+6.String Compression
+7.Rotate Matrix
+8.Zero Matrix
+9.String Rotate
