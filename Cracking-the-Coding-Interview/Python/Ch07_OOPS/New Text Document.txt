@@ -1,12 +1,12 @@
-Deck of Cards
-Call Center
-Jukebox
-Parking Lot
-Online Book Reader
-JigSaw
-Chat Server
-Othello
-Circular Array
-Minesweeper
-File System
-Hash Table
+1.Deck of Cards
+2.Call Center
+3.Jukebox
+4.Parking Lot
+5.Online Book Reader
+6.JigSaw
+7.Chat Server
+8.Othello
+9.Circular Array
+10.Minesweeper
+11.File System
+12.Hash Table

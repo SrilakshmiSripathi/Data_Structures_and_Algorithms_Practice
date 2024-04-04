@@ -1,7 +1,7 @@
-Multiple Apartment
-Open Requests
-Close All Requests
-Joins
-Denormalizations
-Entity-Relationship Diagram 
-Design Grade Database
+1.Multiple Apartment
+2.Open Requests
+3.Close All Requests
+4.Joins
+5.Denormalizations
+6.Entity-Relationship Diagram 
+7.Design Grade Database

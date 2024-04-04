@@ -1,12 +1,12 @@
-Route  Between Nodes
-Minimal Tree
-list of Depths
-Check Balanced
-Validate BST
-Successor
-Build Order
-First common Ancestor
-BST Sequence
-Check Subtree
-Random Node
-Paths with Sum
+1.Route  Between Nodes
+2.Minimal Tree
+3.list of Depths
+4.Check Balanced
+5.Validate BST
+6.Successor
+7.Build Order
+8.First common Ancestor
+9.BST Sequence
+10.Check Subtree
+11.Random Node
+12.Paths with Sum

@@ -1,6 +1,6 @@
-Three in One
-Stack min
-Stack of Plates
-Queue via Stacks
-Sort Stacks
-Animal Shelter
+1.Three in One
+2.Stack min
+3.Stack of Plates
+4.Queue via Stacks
+5.Sort Stacks
+6.Animal Shelter

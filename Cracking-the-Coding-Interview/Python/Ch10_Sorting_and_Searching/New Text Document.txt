@@ -1,11 +1,11 @@
-Sorted Merge
-Group Anagram
-Search in Rotated Array
-Sorted Search, No Size
-Sparse Search
-Sort Big File
-Missing Int
-Find Duplicates
-Sorted Matrix Search
-Rank from Stream
-Peak and Valleys
+1.Sorted Merge
+2.Group Anagram
+3.Search in Rotated Array
+4.Sorted Search, No Size
+5.Sparse Search
+6.Sort Big File
+7.Missing Int
+8.Find Duplicates
+9.Sorted Matrix Search
+10.Rank from Stream
+11.Peak and Valleys
